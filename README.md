@@ -6,4 +6,4 @@ Este projeto foi modificado a partir de um Jupyter Notebook da plataforma Dataqu
 Para tornar a análise de dados mais dinâmica.
 
 Arquivo: two_numbersum.ipynb
-Atividade da semana 3
+(Atividade da semana 3)
